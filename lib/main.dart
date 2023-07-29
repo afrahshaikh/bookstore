@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Book Finder',
+        title: 'Book Store',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),

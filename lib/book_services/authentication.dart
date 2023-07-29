@@ -1,5 +1,5 @@
 import 'package:firebase_auth/firebase_auth.dart';
-
+//LOGIN AUTH
 Future<bool> loginIn(String email, String password) async {
   try {
     await FirebaseAuth.instance

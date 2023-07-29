@@ -20,20 +20,14 @@ class BookServices {
 
       var response = await http
           .get(Uri.parse(url1));
-          /*.timeout(Duration(seconds: 10), onTimeout: () {
-        throw TimeoutException(
-            'Unable to establish connetion . Please try again after sometime');
-      });*/
+
 print(response.body);
       if (response.statusCode == 200) {
         return _parseBookJson(response.body);
       } else {
         print('Null');
       }
-   // }
-   /* on TimeoutException catch (_) {
-      print('Response TimeOUt');
-    }*/
+
       return _parseBookJson(response.body);
   }
 
