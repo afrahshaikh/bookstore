@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1018113035113",
+    "firebase_url": "https://tracking-e1267.firebaseio.com",
+    "project_id": "tracking-e1267",
+    "storage_bucket": "tracking-e1267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018113035113:android:0d5fd2ea6af4eb8bfe0bf8",
+        "android_client_info": {
+          "package_name": "com.example.bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018113035113-l8vt86eioe068g121l3hremjqh74ns60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGa0VjuTkrGZ0MIHWTcK1NT9tLmk-q1uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018113035113-l8vt86eioe068g121l3hremjqh74ns60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018113035113:android:56f69bc10d3a8999fe0bf8",
+        "android_client_info": {
+          "package_name": "com.example.tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018113035113-l8vt86eioe068g121l3hremjqh74ns60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGa0VjuTkrGZ0MIHWTcK1NT9tLmk-q1uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018113035113-l8vt86eioe068g121l3hremjqh74ns60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
